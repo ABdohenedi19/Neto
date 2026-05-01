@@ -30,7 +30,7 @@
 * **Backend:** C# / .NET
 * **Frontend:** React /tailwind css
 * **AI Integration:** Gemini API / Groq API
-* **Architecture:** 3-Tier Architecture / RESTful APIs
+* **Architecture:**  RESTful APIs
 * **Database:** SQL Server
 * *(أضف أي تقنيات أخرى استخدمتها مثل إطار عمل الواجهة الأمامية هنا)*
 
