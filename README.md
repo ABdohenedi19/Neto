@@ -2,8 +2,10 @@
 
 <div align="center">
   <!-- أضف رابط لوجو المشروع هنا إن وجد -->
-  <img src="https://via.placeholder.com/150?text=Neto+Logo" alt="Neto Logo" width="150"/>
-  <br/>
+  <img src="<img width="477" height="417" alt="image" src="https://github.com/user-attachments/assets/69df998e-9686-4ced-b7c8-4bbc14f7e547" />
+" alt="Neto Logo" width="150"/>
+  <br/>![Uploading image.png…]()
+
   <b>المساعد المالي الذكي للفريلانسرز، صناع المحتوى، وأصحاب المشاريع الصغيرة</b>
 </div>
 
