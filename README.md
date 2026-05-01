@@ -2,9 +2,9 @@
 
 <div align="center">
   <!-- أضف رابط لوجو المشروع هنا إن وجد -->
-  <img src="<img width="477" height="417" alt="image" src="https://github.com/user-attachments/assets/69df998e-9686-4ced-b7c8-4bbc14f7e547" />
-" alt="Neto Logo" width="150"/>
-  <br/>![Uploading image.png…]()
+ 
+<img width="477" height="417" alt="image" src="https://github.com/user-attachments/assets/29d1c74e-e3c2-476a-bbc1-d4031c2e1b8e" />
+
 
   <b>المساعد المالي الذكي للفريلانسرز، صناع المحتوى، وأصحاب المشاريع الصغيرة</b>
 </div>
